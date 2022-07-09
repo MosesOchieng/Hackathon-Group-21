@@ -1,0 +1,32 @@
+{
+  "question": [
+    "Q1. What University offers  best services in your course?",
+    "Q2. What will be cut off points to thUniversity?",
+    "Q3. What is the overall grade required ?"
+
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2
+  ],
+  "options": [
+
+    ["Egerton",
+      "UON",
+      "Kenyatta",
+      "Moi"
+    ],
+    ["41-42",
+      "43-44",
+      "45-46",
+      "47-48"
+    ],
+    ["A plane",
+      "A minus",
+      "B +",
+      "B plain"
+    ]
+  ]
+}
