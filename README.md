@@ -7,7 +7,7 @@ In the project folders is the different projects of the group
  (3)Personality test is on the personality folder , personality.py , this project when given more time we can turn it to a book lottery software with prizes on book releases and more reading enhanced with pyscript.
  
  (4)Door lock system 
- the systen file is in the door.py ,the group also was working on intergrating a fully functinal system on flask with janja2 but have not done that , the code to the file is after the flask import below .(Panda door lock system)
+ the systen file is in the door.py ,the group also was working on intergrating a fully functinal system on flask with janja2 but have not done that , the code to the file is after the flask import below .(Panda door lock system)In the project details folder inside the door lock ssytem is already linked signin html form picture.Kindly have a look.
  
 (5)Career test is in folder career and is file main.py ,which also contains a json file for an ice breaker once the program finishes with the interview questions and advice.
  
