@@ -21,7 +21,7 @@ print("The cost of the paint = $", gallons_required * paint_price)
 print("The labor charges = $",labor_charges )
 print("_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _")
 print("The Total Cost of the paint job = $",total_cost )
-
+# after user has worked out and found an answer it would be nice to use tinker to say good bye
 label = tk.Label(
     text="Hello, it was nice calculating the maths",
     foreground="white",  # Set the text color to white
