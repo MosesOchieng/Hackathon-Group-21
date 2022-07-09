@@ -26,5 +26,7 @@ label = tk.Label(
     text="Hello, it was nice calculating the maths",
     foreground="white",  # Set the text color to white
     background="black"  # Set the background color to black
+    width=40,
+    height=5
 )
 
