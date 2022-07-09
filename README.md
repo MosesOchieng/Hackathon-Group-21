@@ -1,4 +1,18 @@
 # Hackathon-Group-21
+
+
+Team Members :
+Moses Ochieng - savemeeducation@gmail.com   0745092523
+Fathili Stephen - stephenfadhili@gmail.com  0713316659
+Yogoh Collins - collinsyogoh@gmail.com      0708644628
+Komen Benard - bernardwolff815@gmail.com    0715318003
+Omondi David - davidomondi842@gmail.com     0742274633
+Midenyo Bridget - breeasena@gmail.com       0705611649
+
+
+
+
+
 In the project folders is the different projects of the group
 (1)Bus challange is in the folder Bus challange and the file is main.py
 
@@ -13,4 +27,4 @@ In the project folders is the different projects of the group
  
 (6) Calorie test is on the calorie folder and is main.py
  
- 
+ Projects created with interprators of Virtual enviroment python.
