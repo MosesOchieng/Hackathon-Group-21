@@ -1,5 +1,5 @@
 # Sales Tax Challenge – Task Two (Day 1)
-
+import tkinker as tk
 # Declaring Variables
 labor_cost_per_hour = 20.00
 labour_hours_per_gallon = 8.0
@@ -21,3 +21,10 @@ print("The cost of the paint = $", gallons_required * paint_price)
 print("The labor charges = $",labor_charges )
 print("_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _")
 print("The Total Cost of the paint job = $",total_cost )
+
+label = tk.Label(
+    text="Hello, it was nice calculating the maths",
+    foreground="white",  # Set the text color to white
+    background="black"  # Set the background color to black
+)
+
